@@ -10,13 +10,12 @@ html {
 
 body {
     background-size: cover;
-  background-position-y: -120px;
 }
 
 .title {
   font-family: cursive;
   font-size: 40px;
-  color: rgba(1, 9, 54, 0.89);
+  color: green;
   text-shadow: white 2px 2px 5px;
   text-align: center;
   text-transform: uppercase;
@@ -25,7 +24,7 @@ body {
 .timer {
   display: flex;
   justify-content: center;
-  height: 140px;
+  height: 40px;
 }
 
 .field {
