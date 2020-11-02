@@ -1,5 +1,3 @@
-import './styles.css';
-
 class CountdownTimer {
   constructor({ selector, targetDate }) {
     this.selector = selector;
@@ -16,7 +14,7 @@ class CountdownTimer {
       const hours = String(Math.floor((time % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60))).padStart(2, '0');
       const mins = String(Math.floor((time % (1000 * 60 * 60)) / (1000 * 60))).padStart(2, '0');
       const secs = String(Math.floor((time % (1000 * 60)) / 1000)).padStart(2, '0');
-      
+
       const wrapper = document.querySelector(`${selector}`)
       wrapper.querySelector('[data-value="days"]').textContent = `${days}`;
       wrapper.querySelector('[data-value="hours"]').textContent = `${hours}`;

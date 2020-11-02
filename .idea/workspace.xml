@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ede83994-a53a-4ace-98bc-54da9de9f2da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604299750573</updated>
-      <workItem from="1604299751852" duration="2549000" />
+      <workItem from="1604299751852" duration="2898000" />
     </task>
     <task id="LOCAL-00001" summary="добавила стили">
       <created>1604299814966</created>
@@ -94,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604301589866</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="добавила стили">
+      <created>1604302620419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604302620419</updated>
+    </task>
+    <task id="LOCAL-00010" summary="добавила webpack">
+      <created>1604302667068</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604302667068</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,20 +115,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="добавила стили" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавила стили" />
+    <MESSAGE value="добавила webpack" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила webpack" />
   </component>
   <component name="WindowStateProjectService">
     <state x="721" y="347" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604302597292">
       <screen x="62" y="0" width="1858" height="1200" />
     </state>
     <state x="721" y="347" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604302597292" />
-    <state x="616" y="187" key="CommitChangelistDialog2" timestamp="1604301588441">
+    <state x="616" y="187" key="CommitChangelistDialog2" timestamp="1604302665952">
       <screen x="62" y="0" width="1858" height="1200" />
     </state>
-    <state x="616" y="187" key="CommitChangelistDialog2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604301588441" />
-    <state x="583" y="333" key="Vcs.Push.Dialog.v2" timestamp="1604301598896">
+    <state x="616" y="187" key="CommitChangelistDialog2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604302665952" />
+    <state x="583" y="333" key="Vcs.Push.Dialog.v2" timestamp="1604302678676">
       <screen x="62" y="0" width="1858" height="1200" />
     </state>
-    <state x="583" y="333" key="Vcs.Push.Dialog.v2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604301598896" />
+    <state x="583" y="333" key="Vcs.Push.Dialog.v2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604302678676" />
   </component>
 </project>
