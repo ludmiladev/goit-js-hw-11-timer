@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ede83994-a53a-4ace-98bc-54da9de9f2da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/configs/development.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/configs/development.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/configs/production.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/configs/production.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/configs/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/configs/shared.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack/utils/paths.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack/utils/paths.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jivVbf9jBUcFV86xyhS7JpEf9p" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede83994-a53a-4ace-98bc-54da9de9f2da" name="Default Changelist" comment="" />
+      <created>1604299750573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604299750573</updated>
+      <workItem from="1604299751852" duration="942000" />
+    </task>
+    <task id="LOCAL-00001" summary="добавила стили">
+      <created>1604299814966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604299814966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавила стили">
+      <created>1604299832041</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604299832041</updated>
+    </task>
+    <task id="LOCAL-00003" summary="добавила стили">
+      <created>1604299885551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604299885551</updated>
+    </task>
+    <task id="LOCAL-00004" summary="добавила стили">
+      <created>1604299967394</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604299967394</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавила стили" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавила стили" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="616" y="187" key="CommitChangelistDialog2" timestamp="1604299966255">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state x="616" y="187" key="CommitChangelistDialog2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604299966255" />
+    <state x="583" y="333" key="Vcs.Push.Dialog.v2" timestamp="1604299980450">
+      <screen x="62" y="0" width="1858" height="1200" />
+    </state>
+    <state x="583" y="333" key="Vcs.Push.Dialog.v2/62.0.1858.1200/-1218.174.1218.1024@62.0.1858.1200" timestamp="1604299980450" />
+  </component>
+</project>
