@@ -6,6 +6,7 @@ const refs = {
     timerFace: document.getElementById("timer-1"),
 };
 
+
 class CountdownTimer {
     constructor({ selector, targetDate }) {
         this.selector = selector;
